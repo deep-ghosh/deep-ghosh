@@ -1,26 +1,91 @@
-<h1 align="center">Hi 👋, I'm Deep Ghosh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Deep+Ghosh+%F0%9F%91%8B;Welcome+to+my+Digital+Playground!" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **Web3**
+<h3 align="center">🚀 Passionate Web3 Developer | 🌐 Full-Stack Enthusiast | 🎨 UI/UX Aficionado</h3>
 
-- 🌱 I’m currently learning **Web3 and Database**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/deep-ghosh?tab=repositories](https://github.com/deep-ghosh?tab=repositories)
+<div align="center">
+  
+  🔭 I'm currently diving deep into **Web3 and Blockchain Technologies**
+  
+  🌱 I'm on a journey to master **Advanced Database Architectures**
+  
+  💡 Always excited to collaborate on **Innovative Web3 Projects**
+  
+  🎯 2024 Goals: Contribute more to **Open Source** and launch a **DApp**
+  
+  ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+  
+</div>
 
-- 💬 Ask me about **Anything**
+<div align="center">
+  <a href="mailto:deepghosh821@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/deep_ghosh_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/deep-ghosh-a22991292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/dj_deep__j">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-- 📫 How to reach me **deepghosh821@gmail.com**
+<hr/>
 
-- ⚡ Fun fact **Work is my first priority**
+<h2 align="center">🛠️ Languages & Tools</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,cpp,c,git,figma" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,postgres,redux,firebase,vercel" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deep_ghosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deep_ghosh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deep-ghosh-a22991292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-ghosh-a22991292" height="30" width="40" /></a>
-<a href="https://instagram.com/dj_deep__j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dj_deep__j" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-ghosh&show_icons=true&locale=en&layout=compact" alt="deep-ghosh" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep-ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-ghosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-ghosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deep-ghosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github.com/deep-ghosh/deep-ghosh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deep-ghosh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+create+together!" alt="Typing SVG" />
+</div>
+
