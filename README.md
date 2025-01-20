@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=300&section=header&text=Deep%20Ghosh&fontSize=90&fontAlignY=35&desc=Web3%20Developer%20|%20Blockchain%20Architect%20|%20Full-Stack%20Engineer&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,2,20,24&height=300&section=header&text=Deep%20Ghosh&desc=Web3%20Developer%20|%20Blockchain%20Architect%20|%20Full-Stack%20Engineer&fontSize=90&animation=blinking&fontAlignY=35&descAlignY=55&descSize=20&stroke=3EEDB9&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -8,11 +8,78 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="mailto:deepghosh821@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/deep_ghosh_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/deep-ghosh-a22991292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/dj_deep__j">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
 <h2 align="center">🚀 Expertise & Technologies</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,solidity,ethereum,mongodb,postgres&perline=4" />
-  <img src="https://skillicons.dev/icons?i=tailwind,graphql,docker,aws,git,figma,vscode,vercel&perline=4" />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="55" height="55" />
+        <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+        <br>GitHub
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+        <br>AWS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
+        <br>GraphQL
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2 align="center">🌟 Featured Projects</h2>
@@ -37,12 +104,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-ghosh&custom_title=Deep's%20Contribution%20Graph&bg_color=0d1117&color=3EEDB9&line=00E887&point=3EEDB9&area=true&hide_border=true" width="100%">
-</div>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deep-ghosh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Deep Ghosh's GitHub Trophies"/>
 </div>
 
 <h2 align="center">💼 Professional Summary</h2>
