@@ -90,10 +90,10 @@
 <h2 align="center"> Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/deep-ghosh/project1">
+  <a href="https://github.com/deep-ghosh/Weather-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=project1&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
-  <a href="https://github.com/deep-ghosh/project2">
+  <a href="https://github.com/deep-ghosh/Flourish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=project2&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
 </div>
