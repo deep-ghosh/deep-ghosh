@@ -4,9 +4,6 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Building+the+Future+of+Web3;Architecting+Decentralized+Solutions;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </div>
 
@@ -88,7 +85,7 @@
   </table>
 </div>
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/deep-ghosh/project1">
@@ -112,18 +109,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-ghosh&custom_title=Deep's%20Contribution%20Graph&bg_color=0d1117&color=3EEDB9&line=00E887&point=3EEDB9&area=true&hide_border=true" width="100%">
 </div>
 
-<h2 align="center">💼 Professional Summary</h2>
+
+    ██████╗ ███████╗███████╗██████╗     ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
+    ██╔══██╗██╔════╝██╔════╝██╔══██╗    ██╔════╝ ██║  ██║██╔═══██╗██╔════╝██║  ██║
+    ██║  ██║█████╗  █████╗  ██████╔╝    ██║  ███╗███████║██║   ██║███████╗███████║
+    ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝     ██║   ██║██╔══██║██║   ██║╚════██║██╔══██║
+    ██████╔╝███████╗███████╗██║         ╚██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
+    ╚═════╝ ╚══════╝╚══════╝╚═╝          ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
 <div align="center">
-
-```typescript
-const deepGhosh = {
-  role: "Web3 Developer & Blockchain Architect",
-  languages: ["JavaScript", "TypeScript", "Solidity", "Python"],
-  frameworks: ["React", "Next.js", "Node.js", "Express"],
-  databases: ["MongoDB", "PostgreSQL"],
-  blockchainTech: ["Ethereum", "Smart Contracts", "DApps"],
-  architecture: ["Microservices", "Serverless", "Progressive Web Apps"],
-  currentFocus: "Building scalable and secure decentralized applications",
-  funFact: "Can solve a Rubik's cube in under 2 minutes!"
-};
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+create+together!" alt="Typing SVG" />
+</div>
