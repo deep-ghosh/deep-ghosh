@@ -1,26 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Initializing+Deep+Ghosh's+Terminal...;System+Breach+Successful;Welcome+to+the+Digital+Playground" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=SYSTEM%3A+Initializing...;ACCESS+GRANTED%3A+Deep+Ghosh;TERMINAL%3A+Ready+for+input..." alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
-<h3 align="center">🔐 Web3 Architect | 🌐 Full-Stack Mastermind | 🕵️ Cyber Sentinel</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=435&lines=🔐+Web3+Developer;🌐+Full-Stack+Engineer;🎨+UI%2FUX+Architect" alt="Typing SVG" />
+</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<br/>
 
 <div align="center">
+  <img src="https://github.com/deep-ghosh/deep-ghosh/blob/output/divider.gif" width="100%" height="2px">
+</div>
 
-```bash
-$ whoami
-Web3 Developer | Blockchain Enthusiast | Code Alchemist
-
-$ current_status
-🔭 Infiltrating the Web3 realm
-🌱 Decrypting advanced database architectures
-💡 Seeking fellow hackers for innovative Web3 missions
-🎯 2024 Directive: Amplify Open Source contributions and deploy a revolutionary DApp
-⚡ Encrypted fact: I can hack... I mean solve a Rubik's cube in under 2 minutes!
+<div align="center">
+  
+  ```diff
+  + 🔭 Currently hacking: Web3 and Blockchain Technologies
+  + 🌱 Decrypting: Advanced Database Architectures
+  + 💡 Seeking: Collaborators for Innovative Web3 Projects
+  + 🎯 2024 Mission: Open Source contributions & DApp deployment
+  ! ⚡ System Log: Can solve a Rubik's cube in under 2 minutes
+  
