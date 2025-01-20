@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Deep%20Ghosh&fontSize=80&color=0:11998e,100:38ef7d&stroke=31E1F7&strokeWidth=3&animation=twinkling&fontColor=ffffff&desc=Blockchain%20Architect%20%7C%20Web3%20Developer%20%7C%20Full-Stack%20Engineer&descSize=20&descAlignY=62&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Deep%20Ghosh&fontSize=90&color=0:8A2BE2,100:4B0082&stroke=31E1F7&strokeWidth=3&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20Innovation%20Engineer&descSize=20&descAlignY=62&fontAlignY=40" width="100%"/>
 </div>
 
 <div align="center">
@@ -84,14 +84,14 @@
   </table>
 </div>
 
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/deep-ghosh/Weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=project1&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=Weather-app&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
   <a href="https://github.com/deep-ghosh/Flourish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=project2&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=Flourish&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
 </div>
 
@@ -107,7 +107,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-ghosh&custom_title=Deep's%20Contribution%20Graph&bg_color=0d1117&color=3EEDB9&line=00E887&point=3EEDB9&area=true&hide_border=true" width="100%">
 </div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+create+together!" alt="Typing SVG" />
