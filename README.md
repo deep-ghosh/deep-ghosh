@@ -1,61 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,2,20,24&text=Deep%20Ghosh&desc=Web3%20Developer%20|%20Blockchain%20Architect&animation=twinkling&fontSize=40&fontAlignY=35&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=300&section=header&text=Deep%20Ghosh&fontSize=90&fontAlignY=35&desc=Web3%20Developer%20|%20Blockchain%20Architect%20|%20Full-Stack%20Engineer&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=500&color=3EEDB9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=150&lines=Initializing+Neural+Network...;Quantum+Blockchain+Systems+Online...;Welcome+to+the+Future+of+Development..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3EEDB9&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Innovating+at+the+Intersection+of;Web3%2C+Blockchain%2C+and+Full-Stack+Development" alt="Typing SVG" />
   </a>
 </div>
 
+<h2 align="center">🚀 Expertise & Technologies</h2>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,solidity,ethereum,mongodb,postgres&perline=4" />
+  <img src="https://skillicons.dev/icons?i=tailwind,graphql,docker,aws,git,figma,vscode,vercel&perline=4" />
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=3EEDB9&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%94%A7+Tech+Stack" alt="Tech Stack" />
-</h2>
+<h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&lineCount=2&theme=catppuccin_mocha&bg=%231E1E2E&badge=%23181825&border=%236C7086&titleColor=%23CDD6F4&line1=react%2Creact%2C61DAFB%3Btypescript%2Ctypescript%2C3178C6%3Bnext.js%2Cnext.js%2CFFFFFF%3Bnode.js%2Cnode.js%2C339933%3B&line2=tailwindcss%2Ctailwind%2C06B6D4%3Bprisma%2Cprisma%2C2D3748%3Bpostgresql%2Cpostgres%2C4169E1%3Bfigma%2Cfigma%2CF24E1E%3B" alt="Tech Stack" />
+  <a href="https://github.com/deep-ghosh/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=project1&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/deep-ghosh/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=project2&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  </a>
 </div>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&lineCount=2&theme=catppuccin_mocha&bg=%231E1E2E&badge=%23181825&border=%236C7086&titleColor=%23CDD6F4&line1=web3%2Cweb3%2CF16822%3Csolidity%2Csolidity%2C363636%3Bhardat%2Chardhat%2CFFFFFF%3Bethers.js%2Cethers%2C3C3C3D%3B&line2=mongodb%2Cmongodb%2C47A248%3Bredux%2Credux%2C764ABC%3Bexpress%2Cexpress%2C000000%3Bgraphql%2Cgraphql%2CE10098%3B" alt="Tech Stack" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deep-ghosh&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Deep Ghosh's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=deep-ghosh&theme=dark&hide_border=true&stroke=3EEDB9&ring=3EEDB9&fire=3EEDB9&currStreakNum=3EEDB9&sideNums=3EEDB9&currStreakLabel=3EEDB9&sideLabels=3EEDB9&dates=3EEDB9&background=0D1117" />
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=3EEDB9&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%93%8A+System+Analytics" alt="System Analytics" />
-</h2>
+<h2 align="center">👨‍💻 Contribution Graph</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deep-ghosh&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Deep Ghosh github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-ghosh&layout=compact&hide_border=true&title_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-ghosh&custom_title=Deep's%20Contribution%20Graph&bg_color=0d1117&color=3EEDB9&line=00E887&point=3EEDB9&area=true&hide_border=true" width="100%">
 </div>
 
-<br/>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep-ghosh&theme=dark&hide_border=true&stroke=3EEDB9&ring=3EEDB9&fire=00E887&currStreakNum=3EEDB9&sideNums=3EEDB9&currStreakLabel=3EEDB9&sideLabels=3EEDB9&dates=3EEDB9&background=0D1117" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deep-ghosh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Deep Ghosh's GitHub Trophies"/>
+</div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=3EEDB9&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%92%BB+System+Status" alt="System Status" />
-</h2>
+<h2 align="center">💼 Professional Summary</h2>
 
 <div align="center">
 
-```css
-┌──────────────────── SYSTEM INFORMATION ────────────────────┐
-│                                                           │
-│  🚀 Current Process  : Web3 & Blockchain Development      │
-│  🔬 Research Focus   : Advanced Database Architecture      │
-│  🤝 Collaboration    : Open to Innovative Web3 Projects    │
-│  🎯 2024 Mission     : Scale Open Source Contributions     │
-│  ⚡ Achievement      : Sub-120s Rubik's Cube Solution     │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+```typescript
+const deepGhosh = {
+  role: "Web3 Developer & Blockchain Architect",
+  languages: ["JavaScript", "TypeScript", "Solidity", "Python"],
+  frameworks: ["React", "Next.js", "Node.js", "Express"],
+  databases: ["MongoDB", "PostgreSQL"],
+  blockchainTech: ["Ethereum", "Smart Contracts", "DApps"],
+  architecture: ["Microservices", "Serverless", "Progressive Web Apps"],
+  currentFocus: "Building scalable and secure decentralized applications",
+  funFact: "Can solve a Rubik's cube in under 2 minutes!"
+};
