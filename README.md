@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Deep%20Ghosh&fontSize=90&color=0:8A2BE2,100:4B0082&stroke=31E1F7&strokeWidth=3&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20Innovation%20Engineer&descSize=20&descAlignY=62&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Deep%20Ghosh&fontSize=80&fontAlign=50&fontAlignY=30&color=0:FF6B6B,50:845EC2,100:00C9A7&stroke=31E1F7&strokeWidth=2&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20Innovation%20Engineer&descSize=22&descAlignY=55&fontFamily=Righteous" width="100%"/>
 </div>
 
 <div align="center">
@@ -42,14 +42,14 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
         <br>TypeScript
       </td>
+    <td align="center" width="90">
+     <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+    <br>Node.js
+    </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="55" height="55" />
-        <br>Node.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-        <br>GitHub
-      </td>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" style="background-color: white; border-radius: 50%; padding: 5px;" />
+  <br>GitHub
+</td>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
         <br>AWS
