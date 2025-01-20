@@ -62,7 +62,7 @@
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-        <br>PostgreSQL
+        <br>
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
@@ -77,8 +77,8 @@
         <br>Docker
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
-        <br>GraphQL
+        <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQ" />
+        <br>
       </td>
     </tr>
   </table>
