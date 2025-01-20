@@ -1,23 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Deep+Ghosh+%F0%9F%91%8B;Welcome+to+my+Digital+Playground!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Deep%20Ghosh&fontSize=80&fontAlign=50&fontAlignY=30&color=0:FF6B6B,50:845EC2,100:00C9A7&stroke=31E1F7&strokeWidth=2&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20Innovation%20Engineer&descSize=22&descAlignY=55&fontFamily=Righteous" width="100%"/>
 </div>
 
-<h3 align="center">🚀 Passionate Web3 Developer | 🌐 Full-Stack Enthusiast | 🎨 UI/UX Aficionado</h3>
-
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Building+the+Future+of+Web3;Architecting+Decentralized+Solutions;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  
-  🔭 I'm currently diving deep into **Web3 and Blockchain Technologies**
-  
-  🌱 I'm on a journey to master **Advanced Database Architectures**
-  
-  💡 Always excited to collaborate on **Innovative Web3 Projects**
-  
-  🎯 2024 Goals: Contribute more to **Open Source** and launch a **DApp**
-  
-  ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
@@ -35,57 +25,89 @@
   </a>
 </div>
 
-<hr/>
+<h2 align="center">🚀 Expertise & Technologies</h2>
 
-<h2 align="center">🛠️ Languages & Tools</h2>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,cpp,c,git,figma" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,postgres,redux,firebase,vercel" />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+        <br>TypeScript
+      </td>
+    <td align="center" width="90">
+     <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+    <br>Node.js
+    </td>
+      <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" style="background-color: white; border-radius: 50%; padding: 5px;" />
+  <br>GitHub
+</td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+        <br>AWS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
+        <br>GraphQL
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep-ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/deep-ghosh/Weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=Weather-app&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/deep-ghosh/Flourish">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=Flourish&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  </a>
 </div>
 
-<br/>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep-ghosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deep-ghosh&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Deep Ghosh's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=deep-ghosh&theme=dark&hide_border=true&stroke=3EEDB9&ring=3EEDB9&fire=3EEDB9&currStreakNum=3EEDB9&sideNums=3EEDB9&currStreakLabel=3EEDB9&sideLabels=3EEDB9&dates=3EEDB9&background=0D1117" />
 </div>
 
-<br/>
+<h2 align="center">👨‍💻 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-ghosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deep-ghosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Graph</h2>
-<div align="center">
-  <img src="https://github.com/deep-ghosh/deep-ghosh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deep-ghosh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-ghosh&custom_title=Deep's%20Contribution%20Graph&bg_color=0d1117&color=3EEDB9&line=00E887&point=3EEDB9&area=true&hide_border=true" width="100%">
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+create+together!" alt="Typing SVG" />
 </div>
-
