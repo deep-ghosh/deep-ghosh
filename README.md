@@ -149,6 +149,4 @@
     ██████╔╝███████╗███████╗██║         ╚██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
     ╚═════╝ ╚══════╝╚══════╝╚═╝          ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+create+together!" alt="Typing SVG" />
-</div>
+
