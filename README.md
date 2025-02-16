@@ -143,6 +143,5 @@
 
   
 
-NEW PROJECTS COMING SOON...
 
 
