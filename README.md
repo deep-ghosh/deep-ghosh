@@ -142,5 +142,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 
-  
-
+  ┌──────────────────── SYSTEM INFORMATION ────────────────────┐
+│                                                           │
+│  🚀 Current Process  : Web3 & Blockchain Development      │
+│  🔬 Research Focus   : Advanced Database Architecture      │
+│  🤝 Collaboration    : Open to Innovative Web3 Projects    │
+│  🎯 2024 Mission     : Scale Open Source Contributions     │
+│  ⚡ Achievement      : Sub-120s Rubik's Cube Solution     │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
