@@ -142,4 +142,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 
-Let's start from today ... it's never too late and it's never too soon...
