@@ -141,4 +141,4 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-trying... , [ can i able to do ..   need more power , be yourself ,use your power don't hold back...need more power.
+trying... 
