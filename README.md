@@ -141,4 +141,4 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-trying... 
+trying... read  read and read 
