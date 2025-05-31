@@ -142,4 +142,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 
-🔚 
+🔚 then it's need's a new start . Let's go for it ...
