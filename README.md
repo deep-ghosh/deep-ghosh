@@ -112,7 +112,115 @@
   </table>
 </div>
 
+<h2 align="center">🌟 Spotlight Projects: Web3 Automation</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 🚗 Autofi - Decentralized Finance Automation Platform
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Web3-DeFi-blue?style=for-the-badge" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Blockchain-Celo-yellow?style=for-the-badge" alt="Celo"/>
+</div>
+
+**Autofi** is an innovative decentralized finance (DeFi) automation platform designed to streamline and optimize blockchain interactions. This cutting-edge project empowers users to automate complex DeFi strategies without manual intervention.
+
+#### 🎯 Key Features:
+- **Automated Trading**: Execute trades automatically based on predefined conditions and market signals
+- **Smart Contract Integration**: Seamlessly interact with various DeFi protocols
+- **Portfolio Management**: Automated rebalancing and yield optimization
+- **Gas Optimization**: Intelligent transaction batching to minimize gas fees
+- **Multi-Protocol Support**: Compatible with major DeFi protocols across multiple chains
+- **Real-time Monitoring**: Track performance and receive alerts on important events
+
+#### 🛠️ Technology Stack:
+- **Blockchain**: Ethereum, Celo, Polygon
+- **Smart Contracts**: Solidity
+- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, Web3.js, Ethers.js
+- **Database**: MongoDB, Redis
+- **APIs**: TheGraph, Chainlink Oracles
+
+#### 💡 Use Cases:
+- Automated yield farming across multiple protocols
+- Dollar-cost averaging (DCA) strategies
+- Liquidation protection mechanisms
+- Arbitrage opportunity execution
+- Automated stop-loss and take-profit orders
+
+---
+
+### 🤖 Celo Automator - Advanced Blockchain Automation Suite
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Celo-Network-35D07F?style=for-the-badge" alt="Celo"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-Automated-orange?style=for-the-badge" alt="Smart Contracts"/>
+</div>
+
+**Celo Automator** is a comprehensive automation suite specifically built for the Celo blockchain ecosystem. It provides developers and users with powerful tools to automate various blockchain operations, from simple transactions to complex smart contract interactions.
+
+#### 🎯 Key Features:
+- **Transaction Automation**: Schedule and execute transactions automatically
+- **Validator Management**: Automated validator operations and monitoring
+- **Staking Automation**: Automatic staking, unstaking, and rewards collection
+- **Multi-Sig Operations**: Streamlined multi-signature wallet management
+- **Governance Participation**: Automated voting and proposal tracking
+- **Token Management**: Automated token transfers and distribution
+- **Event Listeners**: Real-time blockchain event monitoring and response
+- **Backup & Recovery**: Automated key management and backup solutions
+
+#### 🛠️ Technology Stack:
+- **Blockchain**: Celo Network
+- **Smart Contracts**: Solidity, ContractKit
+- **Backend**: TypeScript, Node.js
+- **Celo SDK**: @celo/contractkit, @celo/wallet-*
+- **Infrastructure**: Docker, Kubernetes
+- **Monitoring**: Prometheus, Grafana
+- **CI/CD**: GitHub Actions
+
+#### 💡 Use Cases:
+- Automated validator node operations
+- Scheduled payment distributions
+- Automated treasury management
+- DApp backend automation
+- Smart contract testing and deployment automation
+- Community token airdrops
+- Automated governance participation
+
+#### 🔧 Architecture Highlights:
+- **Modular Design**: Plug-and-play automation modules
+- **Fault Tolerant**: Built-in retry mechanisms and error handling
+- **Scalable**: Horizontal scaling support for high-throughput operations
+- **Secure**: Hardware wallet integration and encrypted key storage
+- **Configurable**: YAML/JSON based configuration for easy customization
+
+#### 🌐 Integration Capabilities:
+- REST API for external integrations
+- Webhook support for event notifications
+- CLI tool for command-line operations
+- Web dashboard for monitoring and management
+- Telegram/Discord bot integration for alerts
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 <h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/deep-ghosh/autofi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=autofi&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/deep-ghosh/celo-automator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deep-ghosh&repo=celo-automator&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/deep-ghosh/Weather-app">
