@@ -1,6 +1,6 @@
 ## About Me
 
-I learn best by building. I enjoy solving problems through software — whether that means creating products, exploring new technologies, or improving the way systems work.
+I learn best by building. I enjoy solving problems through software, whether that means creating products, exploring new technologies, or improving the way systems work.
 
 Most of my work revolves around building practical solutions while continuously refining my approach to software development, product thinking, and engineering execution. I am especially interested in modern web applications, app infrastructure, AI-assisted workflows, and user experiences that are both polished and functional.
 
